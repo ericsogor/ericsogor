@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 Python, Pandas, & ML Beginner Bio<br>-I'm currently working on: Learning how to clean, transform, and analyze datasets using Pandas and NumPy.<br><br>-I'm looking to collaborate on: Introductory data science or machine learning projects—I'm ready to apply new skills!<br><br>-I'm looking for help with: Understanding feature engineering and interpreting results from basic ML models (e.g., Scikit-learn).<br><br>-I'm currently learning: The fundamentals of the Python data science stack, with a focus on Pandas and data visualization.<br><br>-Ask me about: Why I find data analysis fascinating, or my favorite dataset I've explored so far.
+📊 C++, Python, Pandas, & ML : Computer Science Student <br>-I'm currently working on: Learning how to clean, transform, and analyze datasets using Pandas and NumPy , I also have a good grasp on the essentials of C++.<br><br>-I'm currently learning: The fundamentals of the Python data science stack, with a focus on Pandas and data visualization. <br><br>-Ask me about: Why I find data analysis fascinating, or my favorite dataset I've explored so far.
 
 
 # 💻 Tech Stack:
